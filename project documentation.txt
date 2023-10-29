@@ -1,0 +1,16 @@
+first i setup html with 1,2,3,4 and next prev buttons
+
+on top link css
+on body botton import script src 
+
+then applied styles of normal levels
+
+then after that the remaining effects were made using vanilla js 
+
+where there was  active 
+
+then ative shifting to the other  and highlighting multiple  so active was added to all 
+
+then there was progress bar  with click as well 
+
+that is it 
